@@ -1,4 +1,5 @@
 {
+  "name": "renoavte",
   "dependencies":{
       "xmldoc": "1.2.0"
   }
